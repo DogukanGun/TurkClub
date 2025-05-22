@@ -137,7 +137,7 @@ export default function Home() {
               </div>
               <div>
                 <h2 className="text-3xl font-bold mb-4">19 Mayıs Akşamı</h2>
-                <h3 className="text-2xl mb-6">Kuruluş Kokteyli'ne Katıl</h3>
+                <h3 className="text-2xl mb-6">Kuruluş Kokteyli&apos;ne Katıl</h3>
                 <button className="bg-[#C1392B] text-white px-8 py-3 rounded-full hover:bg-opacity-90 transition">
                   Etkinliğe Katıl
                 </button>
@@ -151,7 +151,7 @@ export default function Home() {
           <div className="container mx-auto max-w-6xl">
             <div className="bg-white rounded-lg shadow-lg p-6 max-w-md mx-auto">
               <h3 className="text-xl font-semibold mb-4">
-                Türk Kulübü'nde Ne Görmek İstersiniz?
+                Türk Kulübü&apos;nde Ne Görmek İstersiniz?
               </h3>
               <div className="space-y-4">
                 <div className="flex items-start gap-3">
